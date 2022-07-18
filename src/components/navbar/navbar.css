@@ -1,0 +1,8 @@
+.navbar{
+    background-color: #02304ae8  !important;
+}
+.navbar ul a {
+font-size: larger;
+font-weight: bold;
+/* color: wheat !important; */
+}

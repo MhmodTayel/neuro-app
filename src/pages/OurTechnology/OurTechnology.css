@@ -1,0 +1,116 @@
+.responsive {
+    width: 100%;
+    height: auto;
+  }
+  p{
+    font-size: 1.5rem;
+    text-align: justify;
+
+  }
+
+  .divimg {
+    height: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: grid;
+    place-items: center;
+}
+.overlapped {
+  position: relative;
+}
+.additonal {
+  position: absolute;
+  top: 50%;
+  left: 10%;
+  
+}
+.header {
+    font-size: 60px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+
+hr.divider {
+  height: 0.2rem;
+  max-width: 3.25rem;
+  margin: 1.5rem auto;
+  background-color: #18adcc;
+  opacity: 1;
+}
+.HowWorks{
+  background-color: #f9f9f9;
+}
+
+
+
+
+.cta {
+  margin-top: 3px;
+  padding: 0;
+  margin-bottom: 60px;
+}
+.cta .container {
+  padding: 60px;
+  background:#f9f9f9;
+  border-radius: 15px;
+}
+@media (max-width: 992px) {
+  .cta .container {
+    padding: 60px;
+  }
+}
+.cta .content h3 {
+  /* color: #18adcc; */
+  font-size: 48px;
+  font-weight: 700;
+}
+.cta .content h3 em {
+  font-style: normal;
+  position: relative;
+}
+.cta .content h3 em:after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 10px;
+  height: 10px;
+  background: #18adcc;
+  z-index: -1;
+}
+.cta .content p {
+  color: var(--color-secondary);
+  font-weight: 600;
+  font-size: 18px;
+}
+
+
+.cta .img {
+  position: relative;
+}
+.cta .img:before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: #18adcc;
+  border-radius: 15px;
+  transform: rotate(12deg);
+}
+.cta .img:after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: #18adcc;
+  border-radius: 15px;
+  transform: rotate(6deg);
+}
+.cta .img img {
+  position: relative;
+  z-index: 3;
+  border-radius: 15px;
+}
+.rounded-circle {
+  border-radius: 5% !important;
+}
