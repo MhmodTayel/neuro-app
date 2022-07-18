@@ -60,7 +60,7 @@ export const Contact = () => {
             </p>
             <p className="text-center">
               <FontAwesomeIcon className="icon" icon={faPhone} /> + 20 106 61 49
-              088
+              088 
             </p>
           </div>
         </div>
