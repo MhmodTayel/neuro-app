@@ -1,7 +1,7 @@
 import React from 'react';
 import Pic1 from '../../images/blackmini.jpeg';
 import './navbar.css';
-import pic from '../../images/Copy of logo_black.PNG';
+import pic from '../../images/logo.png';
 // import pic from '../../images/Copy 2of logo_black.png'
 
 import { Link } from 'react-router-dom';

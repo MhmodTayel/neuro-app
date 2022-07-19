@@ -1,5 +1,5 @@
 import React from 'react';
-import pic from '../../images/whiteLogo.png';
+import pic from '../../images/new.jpeg';
 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import {
@@ -61,10 +61,7 @@ export const Footer = () => {
                   <FontAwesomeIcon className="icon" icon={faPhone} /> + 20 111
                   74 67 283{' '}
                 </p>
-                <p>
-                  <FontAwesomeIcon className="icon" icon={faPhone} /> + 20 106
-                  61 49 088
-                </p>
+
               </div>
             </div>
           </div>
