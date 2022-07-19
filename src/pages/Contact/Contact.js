@@ -1,7 +1,7 @@
 import React from 'react';
 import './Contact.css';
 import img from '../../images/1.jpg';
-import pic from '../../images/Copy of logo_black.PNG';
+import pic from '../../images/Copy of logo_white_page-0001.jpg';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import {
   faEnvelope,
@@ -58,7 +58,6 @@ export const Contact = () => {
               <FontAwesomeIcon className="icon" icon={faPhone} /> + 20 111 74 67
               283{' '}
             </p>
-
           </div>
         </div>
       </div>
