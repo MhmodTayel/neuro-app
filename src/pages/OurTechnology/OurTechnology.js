@@ -37,7 +37,7 @@ export const OurTechnology = () => {
           height: '80vh',
         }}
       >
-        <p className="header"> AI for Safer Pools. </p>
+        <p className="header"> AI for Safer Swimming Pools. </p>
       </div>
       <div
         class="row gx-4 gx-lg-5 justify-content-center mt-5 "

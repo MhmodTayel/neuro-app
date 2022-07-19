@@ -17,7 +17,7 @@ export const AboutUs = () => {
       >
         <p className="header p" style={{ color: '#143e55' }}>
           {' '}
-          Who we are?{' '}
+          Who are we?{' '}
         </p>
       </div>
       <div

@@ -1,5 +1,5 @@
 import React from 'react';
-import pic from '../../images/Copy of logo_black.PNG';
+import pic from '../../images/whiteLogo.png';
 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import {
