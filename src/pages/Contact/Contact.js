@@ -52,7 +52,7 @@ export const Contact = () => {
             </p>
             <p className="text-center">
               <FontAwesomeIcon className="icon" icon={faEnvelope} />{' '}
-              <span className="mail">Neuroaitronix@gmail.com</span>
+              <span className="mail">admin@neuro-ai-tronix.com</span>
             </p>
             <p className="text-center">
               <FontAwesomeIcon className="icon" icon={faPhone} /> + 20 111 74 67
