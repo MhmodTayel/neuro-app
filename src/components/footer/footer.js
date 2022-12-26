@@ -55,7 +55,7 @@ export const Footer = () => {
                 </p>
                 <p>
                   <FontAwesomeIcon className="icon" icon={faEnvelope} />{' '}
-                  <span className="mail">Neuroaitronix@gmail.com</span>
+                  <span className="mail">admin@neuro-ai-tronix.com</span>
                 </p>
                 <p>
                   <FontAwesomeIcon className="icon" icon={faPhone} /> + 20 111
